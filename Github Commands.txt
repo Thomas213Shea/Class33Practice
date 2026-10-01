@@ -1,2 +1,12 @@
-Github Commands
+github commands.
 
+1. git init
+2. git remote add origin https://github.com/Thomas213Shea/git.git
+3. git add .
+4. git commit -m "any message"
+5. git push -u origin master
+
+Updating commands:
+1. git add .
+2. git commit -m "any message"
+3. git push 
