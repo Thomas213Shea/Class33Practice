@@ -4,7 +4,7 @@ github commands.
 2. git remote add origin https://github.com/Thomas213Shea/git.git
 3. git add .
 4. git commit -m "message"
-5. git push -u origin master
+5. git push -u origin main
 
 Updating commands:
 1. git add .
@@ -17,3 +17,4 @@ Branch commands:
 3. git checkout -b branchname
 4. git add .
 5. git commit -m "message"
+6. git push origin branchname 
