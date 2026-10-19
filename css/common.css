@@ -1,0 +1,11 @@
+h1 {
+    background-color: grey;
+}
+
+#test{
+    background-color: rgb(106, 106, 113);
+    text-align: center;
+    h1 {
+        color: rgb(62, 38, 62);
+    }
+}
