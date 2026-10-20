@@ -9,3 +9,23 @@ h1 {
         color: rgb(62, 38, 62);
     }
 }
+
+.test{
+    color: rgb(147, 19, 19);
+}
+
+#box1 {
+    width: 200px;
+    padding: 20px;
+    background-color: gray;
+    margin: 30px;
+    border: 2px solid;
+}
+
+#box2 {
+    width: 150px;
+    padding: 20px;
+    background-color: rgb(78, 125, 80);
+    margin: 30px;
+    border: 2px dashed;
+}
